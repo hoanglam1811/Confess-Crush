@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "nho chi qa dm =))",
+    titleWeb: "nhin lam cho' =))",
     introTitle: 'tdan bi dien a???',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'ba xam hon tui =)))',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    btnIntro: 'bà lúc nào cũng xàm hơn tui =)))',
+    title: 'đang hoc à =)))',
+    desc: 'hoc ma van bam tiep???',
+    btnYes: 'tai nho em =))))',
+    btnNo: 'hong nho em =)))',
+    question: 'vô được tới đây là iu em rồi =)))',
+    btnReply: 'gửi cho bạn <3',
+    reply: 'iu thì iu mà không yêu thì yêu <33333333',
+    mess: 'biết mà =)))). mình cũng iu b nhiều =)))',
+    messDesc: 'toi toi em hoc xong em mua gi cho an nhaaa',
+    btnAccept: 'ò oke <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/congchuabuoito123
 }
